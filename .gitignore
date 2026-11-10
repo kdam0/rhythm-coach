@@ -1,0 +1,9 @@
+# dirs
+**node_modules**
+.agent-shell/
+.terraform/
+dist/
+
+# files
+.env
+*.tfstate
