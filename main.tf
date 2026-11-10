@@ -10,7 +10,7 @@ terraform {
 variable "cloudflare_api_token" {
   type        = string
   sensitive   = true
-  description = "Cloudflare API Token"
+  description = "Cloudflare API Token with AI: Edit, and Worker Script: Edit permissions"
 }
 
 variable "cloudflare_account_id" {
