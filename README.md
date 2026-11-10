@@ -11,6 +11,8 @@ angrier as you make mistakes. Inspired by the movie Whiplash.
 This is a *prototype* only, mostly for fun, and demonstration
 purposes.
 
+[Demo](https://rhythm-coach.me-ad9.workers.dev/)
+
 # Resources
 
 - https://search.opentofu.org/provider/cloudflare/cloudflare/latest/docs/resources/workers_script
